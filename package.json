@@ -1,0 +1,24 @@
+{
+  "name": "focal-killer",
+  "version": "0.0.0",
+  "description": "A tool that shows contributions and statistics of group people in version control system, aka VCS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halton/focal-killer.git"
+  },
+  "keywords": [
+    "Focal",
+    "manager",
+    "statistics",
+    "Git"
+  ],
+  "author": "Halton Huo <halton.huo@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/halton/focal-killer/issues"
+  }
+}
