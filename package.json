@@ -20,5 +20,8 @@
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/halton/focal-killer/issues"
+  },
+  "dependencies": {
+    "mongoose": "^4.2.5"
   }
 }
