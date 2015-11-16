@@ -1,6 +1,4 @@
-Focal killer is a tool that can show the contributions of a VCS (version control system), typically git.
-
-This tool suppose to be loved by manager, but hated by engineers.
+Source Ranking is a tool that can show the contributions of a VCS (version control system), typically git.
 
 Planned features:
 * User management:
