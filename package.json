@@ -22,6 +22,7 @@
     "url": "https://github.com/halton/focal-killer/issues"
   },
   "dependencies": {
+    "mkdirp": "^0.5.1",
     "mongoose": "^4.2.5"
   }
 }
